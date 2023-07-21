@@ -1,8 +1,8 @@
 import os
 import shutil
 
-data_dir = 'C:\\Users\\MahdiKhalili\\Desktop\\Shape_Builder\\New Round'
-output_dir = 'C:\\Users\\MahdiKhalili\\Desktop\\Org'
+data_dir = 'data_dir'
+output_dir = 'output_dir'
 mapping_file = 'mapping.txt'
 
 # Create output directories if they don't exist
