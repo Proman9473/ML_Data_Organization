@@ -1,1 +1,1 @@
-# ML_Data_Organization
+Organizes data for ML projects
