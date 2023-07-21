@@ -3,10 +3,10 @@ import random
 import shutil
 
 # Define paths to input and output directories
-input_image_dir = r"C:\Users\MahdiKhalili\Desktop\datasets\images"
-input_label_dir = r"C:\Users\MahdiKhalili\Desktop\datasets\labels"
-input_xml_dir = r"C:\Users\MahdiKhalili\Desktop\datasets\xml"
-output_dir = r"C:\Users\MahdiKhalili\Desktop\Org"
+input_image_dir = r"dir"
+input_label_dir = r"dir"
+input_xml_dir = r"dir"
+output_dir = r"dir"
 
 # Define train/test/validation split percentages
 train_percent = 0.8
