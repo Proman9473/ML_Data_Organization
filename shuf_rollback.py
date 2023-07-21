@@ -2,8 +2,8 @@ import os
 import shutil
 
 # Define paths to the input directories and output directory
-input_dir = r"C:\Users\MahdiKhalili\Desktop\datasets\coco128"
-output_dir = r"C:\Users\MahdiKhalili\Desktop\Old Round"
+input_dir = "dir"
+output_dir = "dir"
 
 # Create the output directory
 os.makedirs(output_dir, exist_ok=True)
